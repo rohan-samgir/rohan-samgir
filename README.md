@@ -1,7 +1,5 @@
 <!-- Header Banner -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A3C6E,100:0F6E56&height=200&section=header&text=Rohan%20Samgir&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Cloud%20%26%20DevOps%20Engineer&descAlignY=58&descSize=20&descColor=9FE1CB" width="100%" />
-</div>
+
 
 <div align="center">
 
